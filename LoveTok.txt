@@ -1,6 +1,6 @@
 LoveTok - HackThebox
 
-o site há um RCE, então vamos pwnar
+o site há um RCE
 https://site.com/?format=r
 
 rodando:
